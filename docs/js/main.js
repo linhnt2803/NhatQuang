@@ -27,7 +27,7 @@ function move(){
     backsec.style.marginLeft = "50px";
     setTimeout(move1,2000);
 };
-move();
+// move();
 function move1(){
     backsec.style.marginTop = "0";
     backsec.style.marginLeft = "0";
